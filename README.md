@@ -30,4 +30,5 @@ Random Forest: Pode capturar interações mais complexas entre as variáveis par
 Resultados: Respostas dentro próprio Notebook.
 
 Dúvidas estou à disposição!
+
 Bruno Bartolomeu
