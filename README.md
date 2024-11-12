@@ -1,4 +1,4 @@
-# Minera-o-de-dados-e-LLM-s---UFMG
+# Mineração de dados e LLM com Machine Learning
 ---
 
 Repositório atendendo a disciplina do Mestrado de Inovação Tecnológica
