@@ -23,3 +23,10 @@ Análise de Componentes Principais (PCA): Reduzir a dimensionalidade e identific
 Regressão Linear Múltipla: Para prever o total de medalhas com base em PIB e população.
 
 Random Forest: Pode capturar interações mais complexas entre as variáveis para prever o número de medalhas.
+
+
+----
+
+Resultados: Respostas dentro próprio Notebook.
+
+Dúvidas estou à disposição!
