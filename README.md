@@ -1,9 +1,10 @@
-# Mineração de dados e LLM com Machine Learning
+# Mineração de dados utilizando LLM com Machine Learning
 ---
 
 Repositório atendendo a disciplina do Mestrado de Inovação Tecnológica
 
 Base de dados: Olympc Games 2024
+
 LLM utlizada: Chat GPT 4.0
 
 ----
