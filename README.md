@@ -24,6 +24,8 @@ Análise de Componentes Principais (PCA): Reduzir a dimensionalidade e identific
 
 
  Regressão Logística: Modelar a probabilidade de uma variável categórica (binária ou multinomial)
+ 
+ Naive Bayes: Classificação baseada no Teorema de Bayes e na suposição de independência condicional entre variáveis.
 
  Redes Neurais Convolucionais (CNN): Classificação de imagens e dados espaciais.
 
