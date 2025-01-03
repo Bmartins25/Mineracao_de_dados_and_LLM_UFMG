@@ -31,11 +31,17 @@ Análise de Componentes Principais (PCA): Reduzir a dimensionalidade e identific
 
 ----
 
-* Algoritmos de Machine Learning - Predição
+* Algoritmos de Regressão de dados - Predição
 
 Regressão Linear Múltipla: Para prever o total de medalhas com base em PIB e população.
 
+Regressão Bayesiana
+
+Regressão Logística
+
 Random Forest: Pode capturar interações mais complexas entre as variáveis para prever o número de medalhas.
+
+Rede Neural
 
 
 ----
