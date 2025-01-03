@@ -1,4 +1,4 @@
-# Mineração de dados utilizando LLM com Machine Learning
+# Mineração de dados utilizando LLM - Clusterização, Classificação e Regressão
 ---
 
 Repositório atendendo a disciplina do Mestrado de Inovação Tecnológica
