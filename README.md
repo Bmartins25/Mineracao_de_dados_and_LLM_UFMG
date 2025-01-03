@@ -33,7 +33,7 @@ Análise de Componentes Principais (PCA): Reduzir a dimensionalidade e identific
 
 * Algoritmos de Regressão de dados - Predição
 
-Regressão Linear Múltipla: Para prever o total de medalhas com base em PIB e população.
+Regressão Linear: Para prever o total de medalhas com base em PIB e população.
 
 Regressão Bayesiana
 
